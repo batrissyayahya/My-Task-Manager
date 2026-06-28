@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_task_manager
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# My-Task-Manager
+Flutter Firebase Task Manager App for DES3113 Lab Test
+>>>>>>> 62218801b7b266b7999923f2ba7b3bfefa7c09f2
